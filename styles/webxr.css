@@ -114,9 +114,9 @@ a:link, a:visited {
 #enterxr {
   display: none;
   position: absolute;
-  height: 100px;
-  width: 100px;
-  right: 30px;
+  height: 10px;
+  width: 00px;
+  right: 10px;
   bottom: 30px;
   background: #fff url(../vr.png) center no-repeat;
   background-size: 80%;
