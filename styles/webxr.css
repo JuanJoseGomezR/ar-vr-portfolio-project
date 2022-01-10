@@ -107,8 +107,23 @@ a:link, a:visited {
   display: block;
 }
 
-#xr button {
+
+#enterxr {
+  display: none;
+  position: absolute;
+  height: 300px;
+  width: 300px;
+  right: 30px;
+  bottom: 30px;
+  background: url(../vr.png);
+  background-size: 80%;
   border: none;
+  cursor: pointer;
+}
+
+
+#xr button {
+  border: 25px;
 }
 
 
