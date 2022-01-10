@@ -115,15 +115,14 @@ a:link, a:visited {
   width: 300px;
   right: 30px;
   bottom: 30px;
-  background: url(../vr.png);
+  background: #fff url(../vr.png) center no-repeat;
   background-size: 80%;
   border: none;
   cursor: pointer;
 }
 
-
 #xr button {
-  border: 25px;
+  border: none;
 }
 
 
