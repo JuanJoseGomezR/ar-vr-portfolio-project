@@ -111,18 +111,7 @@ a:link, a:visited {
   border: none;
 }
 
-#enterxr {
-  display: none;
-  position: absolute;
-  height: 10px;
-  width: 00px;
-  right: 10px;
-  bottom: 30px;
-  background: #fff url(../vr.png) center no-repeat;
-  background-size: 80%;
-  border: none;
-  cursor: pointer;
-}
+
 
 [data-unity-loaded='true'] #enterxr[data-enabled='true'] {
   display: block;
