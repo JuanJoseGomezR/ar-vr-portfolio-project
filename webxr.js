@@ -78,7 +78,7 @@
     document.addEventListener('UnityLoaded', onUnityLoaded, false);
     document.addEventListener('Unity', onUnityMessage, false);
 
-    this.enterXRButton.addEventListener('click', onToggleVR, false);
+    this.enterXRButton.addEventListener('click', onToggleVR, true);
   }
 
   XRManager.prototype.requestPresent = function () {
