@@ -21,7 +21,7 @@ a:link, a:visited {
 }
 
 #loader {
-  background: #2C3146;
+  background-image: url(hamburguesa);
 }
 
 [data-unity-loaded='true'] #loader {
