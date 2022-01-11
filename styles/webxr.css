@@ -21,7 +21,7 @@ a:link, a:visited {
 }
 
 #loader {
-  background-image: url(hamburguesa);
+  background: url(hamburgusea.jpg) center no-repeat;
 }
 
 [data-unity-loaded='true'] #loader {
