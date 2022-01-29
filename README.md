@@ -13,5 +13,9 @@ Snack4All is a food application and this project is the VR environment for the r
 - Blender
 - WebXR
 
+## Instructions:
+- Use right trigger to activate the laser selector (You just have to hover the laser over the button to select).
+- Use left joysitck to move around.
+
 ## Author :pencil:
 **Juan Gómez** - twitter [@J_Gmez](https://twitter.com/J_Gmez) - LinkedIn [Juan José Gómez R.](https://www.linkedin.com/in/juanjgomezr0908/)
